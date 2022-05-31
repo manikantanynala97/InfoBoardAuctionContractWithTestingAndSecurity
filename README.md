@@ -1,15 +1,6 @@
-# Basic Sample Hardhat Project
+![slot](https://user-images.githubusercontent.com/90610801/171081207-9d1baf12-9ee1-4ea2-9ee7-ec5beec01d13.jpg)
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
 
-Try running some of the following tasks:
+![InfoBoardAuctionTest](https://user-images.githubusercontent.com/90610801/171081230-d9e1c508-222f-4472-b356-29035aca2fcf.jpg)
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+
